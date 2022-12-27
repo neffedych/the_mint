@@ -9,3 +9,6 @@ What I've learned during this project:
 4. Fundamentals of the CSS BEM Model
 5. From soft and pleasant animations to complex gradients
 6. Perfectly placed media queries for satisfactory responsiveness covering almost devices
+
+
+Link for the deployed project: 
