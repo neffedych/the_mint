@@ -11,4 +11,4 @@ What I've learned during this project:
 6. Perfectly placed media queries for satisfactory responsiveness covering almost devices
 
 
-Link for the deployed project: 
+Link for the deployed project: https://the-mint-artem-nefedov.netlify.app/
